@@ -1,4 +1,4 @@
-# Ant colony optimization for traveling salesman problem based on parameters optimization
+# [Ant colony optimization for traveling salesman problem based on parameters optimization](https://doi.org/10.1016/j.asoc.2021.107439)
 
 <img width="866" alt="topic" src="https://github.com/KhaKimThuy/SOS-ACO/assets/109899051/49e6296b-7e04-4935-ab3a-7db160224b4f">
 
@@ -31,5 +31,5 @@
 }
 ```
 ## Acknowledgements
-This is an implement in Python for the proposed SOS-ACO algorithm in the mentioned paper (according to my understanding). 
+This is an implement in Python for the proposed SOS-ACO algorithm in [the reference paper](https://doi.org/10.1016/j.asoc.2021.107439) (according to my understanding). 
 Codebase built upon [SOS](https://github.com/hurlenko/symbiotic-organisms-search) and [ACO](https://github.com/OptiNobles/tsp-ant-colony)
